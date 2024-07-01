@@ -11,3 +11,7 @@ Research Question
 ● How do public libraries integrate with the local population and leverage the distribution of visitors' characteristics to enhance services based on data from 2021 to 2022?
 
 This is the course project for Tufts University's Spring 2024 Advanced GIS class
+
+Pre_Research Tableau Visualization :
+
+https://public.tableau.com/app/profile/jiayi.zhang7317/viz/FinalProject_U_S_PublicLibrarySurvey/InsightsintoAdaptingPublicLibraryServicestoMeetChangingPublicNeedsAStudyofthePublicLibrarySurveyData
